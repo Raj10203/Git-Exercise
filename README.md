@@ -75,7 +75,7 @@ A Git practical example demonstrates the fundamental concepts of version control
 3.  Verify the Tag
     ``` 
     git tag
-
+Thats is!
 
 
 
